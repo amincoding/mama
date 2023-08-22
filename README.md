@@ -1,16 +1,6 @@
-# mama
+# mama meds app
 
-A new Flutter project.
+## whats this
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app was made for my mom since she has theroid, and using this app i made it possible for her to know
+when does she eat the 50mg pil and when she eats the 75mg one
